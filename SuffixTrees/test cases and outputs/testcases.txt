@@ -1,0 +1,13 @@
+For Part 1:
+1. Search for the occurance of the substring "wolf" in all stories.
+2. Search for the occurance of the substring "and the" in all stories.
+
+For Part 2:
+1. Finds leftmost occurance of the word "wolf" and if "wolf" does not exist, finds leftmost occurance of the longest prefix that exists.
+2. Finds leftmost occurance of the word "and the" and if "and the" does not exist, finds leftmost occurance of the longest prefix that exists.
+
+For Part 3:
+1. Query string "wolf lamb grass well" - Rank based on this string
+2. Query string "wolf grass lamb well" - Rank based on this string
+This is to show how relative ordering affects the rank.
+

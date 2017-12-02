@@ -1,0 +1,1154 @@
+#String entered wolf- finds all occurances of it.
+
+ENTER THE STRING: wolf    
+DO YOU WANT THE SOLUTION TO PART 1,2 or 3? Enter just the number:
+1
+
+
+TITLE:  The Wolf and the Lamb 
+The string is there from 140
+WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.
+
+The string is there from 443
+"  Again said the Wolf, "You drink of my well.
+
+The string is there from 329
+"  Then said the Wolf, "You feed in my pasture.
+
+The string is there from 1
+WOLF, meeting with a Lamb astray from the fold, resolved not to lay violent hands on him, but to find some plea to justify to the Lamb the Wolf's right to eat him.
+
+The string is there from 601
+"  Upon which the Wolf seized him and ate him up, saying, "Well! I won't remain supperless, even though you refute every one of my imputations.
+
+
+____________________________
+TITLE:  The Bat and the Weasels 
+
+____________________________
+TITLE:  The Ass and the Grasshopper 
+
+____________________________
+TITLE:  The Lion and the Mouse 
+
+____________________________
+TITLE:  The Charcoal-Burner and the Fuller 
+
+____________________________
+TITLE:  The Father and His Sons 
+
+____________________________
+TITLE:  The Boy Hunting Locusts 
+
+____________________________
+TITLE:  The Cock and the Jewel 
+
+____________________________
+TITLE:  The Kingdom of the Lion 
+The string is there from 310
+  During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity.
+
+
+____________________________
+TITLE:  The Wolf and the Crane 
+The string is there from 3
+A WOLF who had a bone stuck in his throat hired a Crane, for a large sum, to put her head into his mouth and draw out the bone.
+
+The string is there from 207
+  When the Crane had extracted the bone and demanded the promised payment, the Wolf, grinning and grinding his teeth, exclaimed: "Why, you have surely already had a sufficient recompense, in having been permitted to draw out your head in safety from the mouth and jaws of a wolf.
+
+The string is there from 402
+  When the Crane had extracted the bone and demanded the promised payment, the Wolf, grinning and grinding his teeth, exclaimed: "Why, you have surely already had a sufficient recompense, in having been permitted to draw out your head in safety from the mouth and jaws of a wolf.
+
+
+____________________________
+TITLE:  The Fisherman Piping 
+
+____________________________
+TITLE:  Hercules and the Wagoner 
+
+____________________________
+TITLE:  The Ants and the Grasshopper 
+
+____________________________
+TITLE:  The Traveler and His Dog 
+
+____________________________
+TITLE:  The Dog and the Shadow 
+
+____________________________
+TITLE:  The Mole and His Mother 
+
+____________________________
+TITLE:  The Herdsman and the Lost Bull 
+
+____________________________
+TITLE:  The Hare and the Tortoise 
+
+____________________________
+TITLE:  The Pomegranate, Apple-Tree, and Bramble 
+
+____________________________
+TITLE:  The Farmer and the Stork 
+
+____________________________
+TITLE:  The Farmer and the Snake 
+
+____________________________
+TITLE:  The Fawn and His Mother 
+
+____________________________
+TITLE:  The Bear and the Fox 
+
+____________________________
+TITLE:  The Swallow and the Crow 
+
+____________________________
+TITLE:  The Mountain in Labor 
+
+____________________________
+TITLE:  The Ass, the Fox, and the Lion 
+
+____________________________
+TITLE:  The Tortoise and the Eagle  
+
+____________________________
+TITLE:  The Flies and the Honey-Pot 
+
+____________________________
+TITLE:  The Man and the Lion 
+
+____________________________
+TITLE:  The Farmer and the Cranes 
+
+____________________________
+TITLE:  The Dog in the Manger 
+
+____________________________
+TITLE:  The Fox and the Goat 
+
+____________________________
+TITLE:  The Bear and the Two Travelers 
+
+____________________________
+TITLE:  The Oxen and the Axle-Trees 
+
+____________________________
+TITLE:  The Thirsty Pigeon 
+
+____________________________
+TITLE:  The Raven and the Swan 
+
+____________________________
+TITLE:  The Goat and the Goatherd 
+
+____________________________
+TITLE:  The Miser 
+
+____________________________
+TITLE:  The Sick Lion 
+
+____________________________
+TITLE:  The Horse and Groom 
+
+____________________________
+TITLE:  The Ass and the Lapdog 
+
+____________________________
+TITLE:  The Lioness 
+
+____________________________
+TITLE:  The Boasting Traveler 
+
+____________________________
+TITLE:  The Cat and the Cock 
+
+____________________________
+TITLE:  The Piglet, the Sheep, and the Goat 
+
+____________________________
+TITLE:  The Boy and the Filberts 
+
+____________________________
+TITLE:  The Lion in Love 
+
+____________________________
+TITLE:  The Laborer and the Snake 
+
+____________________________
+TITLE:  The Wolf in Sheep's Clothing 
+The string is there from 435
+  But the shepherd, returning to the fold during the night to obtain meat for the next day, mistakenly caught up the Wolf instead of a sheep, and killed him instantly.
+
+The string is there from 20
+ONCE UPON A TIME a Wolf resolved to disguise his appearance in order to secure food more easily.
+
+
+____________________________
+TITLE:  The Ass and the Mule 
+
+____________________________
+TITLE:  The Frogs Asking for a King 
+
+____________________________
+TITLE:  The Boys and the Frogs 
+
+____________________________
+TITLE:  The Sick Stag 
+
+____________________________
+TITLE:  The Salt Merchant and His Ass 
+
+____________________________
+TITLE:  The Oxen and the Butchers 
+
+____________________________
+TITLE:  The Lion, the Mouse, and the Fox 
+
+____________________________
+TITLE:  The Vain Jackdaw 
+
+____________________________
+TITLE:  The Goatherd and the Wild Goats 
+
+____________________________
+TITLE:  The Mischievous Dog 
+
+____________________________
+TITLE:  The Fox Who Had Lost His Tail 
+
+____________________________
+TITLE:  The Boy and the Nettles 
+
+____________________________
+TITLE:  The Man and His Two Sweethearts 
+
+____________________________
+TITLE:  The Astronomer 
+
+____________________________
+TITLE:  The Wolves and the Sheep 
+
+____________________________
+TITLE:  The Old Woman and the Physician 
+
+____________________________
+TITLE:  The Fighting Cocks and the Eagle 
+
+____________________________
+TITLE:  The Charger and the Miller 
+
+____________________________
+TITLE:  The Fox and the Monkey 
+
+____________________________
+TITLE:  The Horse and His Rider 
+
+____________________________
+TITLE:  The Belly and the Members 
+
+____________________________
+TITLE:  The Vine and the Goat 
+
+____________________________
+TITLE:  Jupiter and the Monkey 
+
+____________________________
+TITLE:  The Widow and Her Little Maidens 
+
+____________________________
+TITLE:  The Shepherd's Boy and the Wolf 
+The string is there from 124
+A SHEPHERD-BOY, who watched a flock of sheep near a village, brought out the villagers three or four times by crying out, "Wolf! Wolf!"  and when his neighbors came to help him, laughed at them for their pains.
+
+The string is there from 130
+A SHEPHERD-BOY, who watched a flock of sheep near a village, brought out the villagers three or four times by crying out, "Wolf! Wolf!"  and when his neighbors came to help him, laughed at them for their pains.
+
+The string is there from 460
+  The Wolf, having no cause of fear, at his leisure lacerated or destroyed the whole flock.
+
+The string is there from 217
+  The Wolf, however, did truly come at last.
+
+The string is there from 359
+  The Shepherd-boy, now really alarmed, shouted in an agony of terror:  "Pray, do come and help me; the Wolf is killing the sheep"; but no one paid any heed to his cries, nor rendered any assistance.
+
+
+____________________________
+TITLE:  The Cat and the Birds 
+
+____________________________
+TITLE:  The Kid and the Wolf 
+The string is there from 65
+A KID standing on the roof of a house, out of harm's way, saw a Wolf passing by and immediately began to taunt and revile him.
+
+The string is there from 133
+  The Wolf, looking up, said, "Sirrah! I hear thee:  yet it is not thou who mockest me, but the roof on which thou art standing.
+
+
+____________________________
+TITLE:  The Ox and the Frog 
+
+____________________________
+TITLE:  The Shepherd and the Wolf 
+The string is there from 39
+ A SHEPHERD once found the whelp of a Wolf and brought it up, and after a while taught it to steal lambs from the neighboring flocks.
+
+The string is there from 140
+  The Wolf, having shown himself an apt pupil, said to the Shepherd, "Since you have taught me to steal, you must keep a sharp lookout, or you will lose some of your own flock.
+
+
+____________________________
+TITLE:  The Father and His Two Daughters 
+
+____________________________
+TITLE:  The Farmer and His Sons 
+
+____________________________
+TITLE:  The Crab and Its Mother 
+
+____________________________
+TITLE:  The Heifer and the Ox 
+
+____________________________
+TITLE:  The Swallow, the Serpent, and the Court of Justice 
+
+____________________________
+TITLE:  The Thief and His Mother 
+
+____________________________
+TITLE:  The Old Man and Death 
+
+____________________________
+TITLE:  The Fir-Tree and the Bramble 
+
+____________________________
+TITLE:  The Mouse, the Frog, and the Hawk 
+
+____________________________
+TITLE:  The Man Bitten by a Dog 
+
+____________________________
+TITLE:  The Two Pots 
+
+____________________________
+TITLE:  The Wolf and the Sheep 
+The string is there from 3
+A WOLF, sorely wounded and bitten by dogs, lay sick and maimed in his lair.
+
+
+____________________________
+TITLE:  The Aethiop 
+
+____________________________
+TITLE:  The Fisherman and His Nets 
+
+____________________________
+TITLE:  The Huntsman and the Fisherman 
+
+____________________________
+TITLE:  The Old Woman and the Wine-Jar 
+
+____________________________
+TITLE:  The Fox and the Crow 
+
+____________________________
+TITLE:  The Two Dogs 
+
+____________________________
+TITLE:  The Stag in the Ox-Stall 
+
+____________________________
+TITLE:  The Hawk, the Kite, and the Pigeons 
+
+____________________________
+TITLE:  The Widow and the Sheep 
+
+____________________________
+TITLE:  The Wild Ass and the Lion 
+
+____________________________
+TITLE:  The Eagle and the Arrow 
+
+____________________________
+TITLE:  The Sick Kite 
+
+____________________________
+TITLE:  The Lion and the Dolphin 
+
+____________________________
+TITLE:  The Lion and the Boar 
+
+____________________________
+TITLE:  The One-Eyed Doe 
+
+____________________________
+TITLE:  The Shepherd and the Sea 
+
+____________________________
+TITLE:  The Ass, the Cock, and the Lion 
+
+____________________________
+TITLE:  The Mice and the Weasels 
+
+____________________________
+TITLE:  The Mice in Council 
+
+____________________________
+TITLE:  The Wolf and the Housedog 
+The string is there from 3
+A WOLF, meeting a big well-fed Mastiff with a wooden collar about his neck asked him who it was that fed him so well and yet compelled him to drag that heavy log about wherever he went.
+
+The string is there from 229
+  Then said the Wolf:  "May no friend of mine ever be in such a plight; for the weight of this chain is enough to spoil the appetite.
+
+
+____________________________
+TITLE:  The Rivers and the Sea 
+
+____________________________
+TITLE:  The Playful Ass 
+
+____________________________
+TITLE:  The Three Tradesmen 
+
+____________________________
+TITLE:  The Master and His Dogs 
+
+____________________________
+TITLE:  The Wolf and the Shepherds 
+The string is there from 3
+A WOLF, passing by, saw some Shepherds in a hut eating a haunch of mutton for their dinner.
+
+
+____________________________
+TITLE:  The Dolphins, the Whales, and the Sprat 
+
+____________________________
+TITLE:  The Ass Carrying the Image 
+
+____________________________
+TITLE:  The Two Travelers and the Axe 
+
+____________________________
+TITLE:  The Old Lion 
+
+____________________________
+TITLE:  The Old Hound 
+
+____________________________
+TITLE:  The Bee and Jupiter 
+
+____________________________
+TITLE:  The Milk-Woman and Her Pail 
+
+____________________________
+TITLE:  The Seaside Travelers 
+
+____________________________
+TITLE:  The Brazier and His Dog 
+
+____________________________
+TITLE:  The Ass and His Shadow 
+
+____________________________
+TITLE:  The Ass and His Masters 
+
+____________________________
+TITLE:  The Oak and the Reeds 
+
+____________________________
+TITLE:  The Fisherman and the Little Fish 
+
+____________________________
+TITLE:  The Hunter and the Woodman 
+
+____________________________
+TITLE:  The Wild Boar and the Fox 
+
+____________________________
+TITLE:  The Lion in a Farmyard 
+
+____________________________
+TITLE:  Mercury and the Sculptor 
+
+____________________________
+TITLE:  The Swan and the Goose 
+
+____________________________
+TITLE:  The Swollen Fox 
+
+____________________________
+TITLE:  The Fox and the Woodcutter 
+
+____________________________
+TITLE:  The Birdcatcher, the Partridge, and the Cock 
+
+____________________________
+TITLE:  The Monkey and the Fishermen 
+
+____________________________
+TITLE:  The Flea and the Wrestler 
+
+____________________________
+TITLE:  The Two Frogs 
+
+____________________________
+TITLE:  The Cat and the Mice 
+
+____________________________
+TITLE:  The Lion, the Bear, and the Fox 
+
+____________________________
+TITLE:  The Doe and the Lion 
+
+____________________________
+TITLE:  The Farmer and the Fox 
+
+____________________________
+TITLE:  The Seagull and the Kite 
+
+____________________________
+TITLE:  The Philosopher, the Ants, and Mercury 
+
+____________________________
+TITLE:  The Mouse and the Bull 
+
+____________________________
+TITLE:  The Lion and the Hare 
+
+____________________________
+TITLE:  The Peasant and the Eagle 
+
+____________________________
+TITLE:  The Image of Mercury and the Carpenter 
+
+____________________________
+TITLE:  The Bull and the Goat 
+
+____________________________
+TITLE:  The Dancing Monkeys 
+
+____________________________
+TITLE:  The Monkeys and Their Mother 
+
+____________________________
+TITLE:  The Oaks and Jupiter 
+
+____________________________
+TITLE:  The Hare and the Hound 
+
+____________________________
+TITLE:  The Traveler and Fortune 
+
+____________________________
+TITLE:  The Bald Knight 
+
+____________________________
+TITLE:  The Shepherd and the Dog 
+The string is there from 198
+A SHEPHERD penning his sheep in the fold for the night was about to shut up a wolf with them, when his Dog perceiving the wolf said, "Master, how can you expect the sheep to be safe if you admit a wolf into the fold?'  
+
+The string is there from 123
+A SHEPHERD penning his sheep in the fold for the night was about to shut up a wolf with them, when his Dog perceiving the wolf said, "Master, how can you expect the sheep to be safe if you admit a wolf into the fold?'  
+
+The string is there from 79
+A SHEPHERD penning his sheep in the fold for the night was about to shut up a wolf with them, when his Dog perceiving the wolf said, "Master, how can you expect the sheep to be safe if you admit a wolf into the fold?'  
+
+
+____________________________
+TITLE:  The Lamp 
+
+____________________________
+TITLE:  The Lion, the Fox, and the Ass 
+
+____________________________
+TITLE:  The Bull, the Lioness, and the Wild-Boar Hunter 
+
+____________________________
+TITLE:  The Oak and the Woodcutters 
+
+____________________________
+TITLE:  The Hen and the Golden Eggs 
+
+____________________________
+TITLE:  The Ass and the Frogs 
+
+____________________________
+TITLE:  Men often bear little grievances with less courage than they do large misfortunes.  
+
+____________________________
+TITLE:  The Crow and the Raven 
+
+____________________________
+TITLE:  The Trees and the Axe 
+
+____________________________
+TITLE:  The Crab and the Fox 
+
+____________________________
+TITLE:  The Woman and Her Hen 
+
+____________________________
+TITLE:  The Ass and the Old Shepherd 
+
+____________________________
+TITLE:  The Kites and the Swans 
+
+____________________________
+TITLE:  The Wolves and the Sheepdogs 
+
+____________________________
+TITLE:  The Hares and the Foxes 
+
+____________________________
+TITLE:  The Bowman and Lion 
+
+____________________________
+TITLE:  The Camel 
+
+____________________________
+TITLE:  The Wasp and the Snake 
+
+____________________________
+TITLE:  The Dog and the Hare 
+
+____________________________
+TITLE:  The Bull and the Calf 
+
+____________________________
+TITLE:  The Stag, the Wolf, and the Sheep 
+The string is there from 173
+  The Sheep, fearing some fraud was intended, excused herself, saying, "The Wolf is accustomed to seize what he wants and to run off; and you, too, can quickly outstrip me in your rapid flight.
+
+The string is there from 72
+A STAG asked a Sheep to lend him a measure of wheat, and said that the Wolf would be his surety.
+
+
+____________________________
+TITLE:  The Peacock and the Crane 
+
+____________________________
+TITLE:  The Fox and the Hedgehog 
+
+____________________________
+TITLE:  The Eagle, the Cat, and the Wild Sow 
+
+____________________________
+TITLE:  The Thief and the Innkeeper 
+The string is there from 822
+  I know not, sir, when I got this habit of yawning, nor whether these attacks of howling were inflicted on me as a judgment for my crimes, or for any other cause; but this I do know, that when I yawn for the third time, I actually turn into a wolf and attack men.
+
+The string is there from 406
+  As the conversation began to flag, the Thief yawned terribly and at the same time howled like a wolf.
+
+The string is there from 1252
+  The Thief laid hold of his coat and entreated him to stop, saying, "Pray wait, sir, and hold my clothes, or I shall tear them to pieces in my fury, when I turn into a wolf.
+
+The string is there from 923
+"  With this speech he commenced a second fit of yawning and again howled like a wolf, as he had at first.
+
+
+____________________________
+TITLE:  The Mule 
+
+____________________________
+TITLE:  The Hart and the Vine 
+
+____________________________
+TITLE:  The Serpent and the Eagle 
+
+____________________________
+TITLE:  The Crow and the Pitcher 
+
+____________________________
+TITLE:  The Two Frogs 
+
+____________________________
+TITLE:  The Wolf and the Fox 
+The string is there from 37
+AT ONE TIME a very large and strong Wolf was born among the wolves, who exceeded all his fellow-wolves in strength, size, and swiftness, so that they unanimously decided to call him "Lion.
+
+The string is there from 195
+" The Wolf, with a lack of sense proportioned to his enormous size, thought that they gave him this name in earnest, and, leaving his own race, consorted exclusively with the lions.
+
+The string is there from 586
+  An old sly Fox, seeing this, said, "May I never make myself so ridiculous as you do in your pride and self-conceit; for even though you have the size of a lion among wolves, in a herd of lions you are definitely a wolf.
+
+
+____________________________
+TITLE:  The Walnut-Tree 
+
+____________________________
+TITLE:  The Gnat and the Lion 
+
+____________________________
+TITLE:  The Monkey and the Dolphin 
+
+____________________________
+TITLE:  The Jackdaw and the Doves 
+
+____________________________
+TITLE:  The Horse and the Stag 
+
+____________________________
+TITLE:  The Kid and the Wolf 
+The string is there from 151
+  Seeing he could not escape, he turned round, and said:  "I know, friend Wolf, that I must be your prey, but before I die I would ask of you one favor you will play me a tune to which I may dance.
+
+The string is there from 72
+A KID, returning without protection from the pasture, was pursued by a Wolf.
+
+The string is there from 404
+"  The Wolf complied, and while he was piping and the Kid was dancing, some hounds hearing the sound ran up and began chasing the Wolf.
+
+The string is there from 281
+"  The Wolf complied, and while he was piping and the Kid was dancing, some hounds hearing the sound ran up and began chasing the Wolf.
+
+
+____________________________
+TITLE:  The Prophet 
+
+____________________________
+TITLE:  The Fox and the Monkey 
+
+____________________________
+TITLE:  The Thief and the Housedog 
+
+____________________________
+TITLE:  The Man, the Horse, the Ox, and the Dog 
+
+____________________________
+TITLE:  The Apes and the Two Travelers 
+
+____________________________
+TITLE:  The Wolf and the Shepherd 
+The string is there from 3
+A WOLF followed a flock of sheep for a long time and did not attempt to injure one of them.
+
+The string is there from 227
+  But when the Wolf, day after day, kept in the company of the sheep and did not make the slightest effort to seize them, the Shepherd began to look upon him as a guardian of his flock rather than as a plotter of evil against it; and when occasion called him one day into the city, he left the sheep entirely in his charge.
+
+The string is there from 541
+  The Wolf, now that he had the opportunity, fell upon the sheep, and destroyed the greater part of the flock.
+
+The string is there from 777
+  When the Shepherd returned to find his flock destroyed, he exclaimed:  "I have been rightly served; why did I trust my sheep to a Wolf?'  
+
+
+____________________________
+TITLE:  The Hares and the Lions 
+
+____________________________
+TITLE:  The Lark and Her Young Ones 
+
+____________________________
+TITLE:  The Fox and the Lion 
+
+____________________________
+TITLE:  The Weasel and the Mice 
+
+____________________________
+TITLE:  The Boy Bathing 
+
+____________________________
+TITLE:  The Ass and the Wolf 
+The string is there from 34
+AN ASS feeding in a meadow saw a Wolf approaching to seize him, and immediately pretended to be lame.
+
+The string is there from 349
+  The Wolf consented and lifted up the foot, and was giving his whole mind to the discovery of the thorn, when the Ass, with his heels, kicked his teeth into his mouth and galloped away.
+
+The string is there from 276
+  He requested that the Wolf pull it out, lest when he ate him it should injure his throat.
+
+The string is there from 535
+  The Wolf, being thus fearfully mauled, said, "I am rightly served, for why did I attempt the art of healing, when my father only taught me the trade of a butcher?'  
+
+The string is there from 108
+  The Wolf, coming up, inquired the cause of his lameness.
+
+
+____________________________
+TITLE:  The Seller of Images 
+
+____________________________
+TITLE:  The Fox and the Grapes 
+
+____________________________
+TITLE:  The Man and His Wife 
+
+____________________________
+TITLE:  The Peacock and Juno 
+
+____________________________
+TITLE:  The Hawk and the Nightingale 
+
+____________________________
+TITLE:  The Dog, the Cock, and the Fox 
+
+____________________________
+TITLE:  The Wolf and the Goat 
+The string is there from 3
+A WOLF saw a Goat feeding at the summit of a steep precipice, where he had no chance of reaching her.
+
+
+____________________________
+TITLE:  The Lion and the Bull 
+
+____________________________
+TITLE: 
+
+____________________________
+TITLE:  The Goat and the Ass 
+
+____________________________
+TITLE:  The Town Mouse and the Country Mouse 
+
+____________________________
+TITLE:  The Wolf, the Fox, and the Ape 
+The string is there from 3
+A WOLF accused a Fox of theft, but the Fox entirely denied the charge.
+
+The string is there from 218
+  When each had fully stated his case the Ape announced this sentence:  "I do not think you, Wolf, ever lost what you claim; and I do believe you, Fox, to have stolen what you so stoutly deny.
+
+
+____________________________
+TITLE:  The Fly and the Draught-Mule 
+
+____________________________
+TITLE:  The Fishermen 
+
+____________________________
+TITLE:  The Lion and the Three Bulls 
+
+____________________________
+TITLE:  The Fowler and the Viper 
+
+____________________________
+TITLE:  The Horse and the Ass 
+
+____________________________
+TITLE:  The Fox and the Mask 
+
+____________________________
+TITLE:  The Geese and the Cranes 
+
+____________________________
+TITLE:  The Blind Man and the Whelp 
+The string is there from 113
+  The whelp of a Wolf was brought him, with a request that he would feel it, and say what it was.
+
+The string is there from 305
+  He felt it, and being in doubt, said:  "I do not quite know whether it is the cub of a Fox, or the whelp of a Wolf, but this I know full well.
+
+
+____________________________
+TITLE:  The Dogs and the Fox 
+
+____________________________
+TITLE:  The Cobbler Turned Doctor 
+
+____________________________
+TITLE:  The Wolf and the Horse 
+The string is there from 3
+A WOLF coming out of a field of oats met a Horse and thus addressed him:  "I would advise you to go into that field.
+
+
+____________________________
+TITLE:  The Brother and the Sister 
+
+____________________________
+TITLE:  The Wasps, the Partridges, and the Farmer 
+
+____________________________
+TITLE:  The Crow and Mercury 
+
+____________________________
+TITLE:  The North Wind and the Sun 
+
+____________________________
+TITLE:  The Two Men Who Were Enemies 
+
+____________________________
+TITLE:  The Gamecocks and the Partridge 
+
+____________________________
+TITLE:  The Quack Frog 
+
+____________________________
+TITLE:  The Lion, the Wolf, and the Fox 
+The string is there from 771
+  The Lion roaring out in a rage against him, the Fox sought an opportunity to defend himself and said, "And who of all those who have come to you have benefited you so much as I, who have traveled from place to place in every direction, and have sought and learnt from the physicians the means of healing you?'  The Lion commanded him immediately to tell him the cure, when he replied, "You must flay a wolf alive and wrap his skin yet warm around you.
+
+The string is there from 827
+"  The Wolf was at once taken and flayed; whereon the Fox, turning to him, said with a smile, "You should have moved your master not to ill, but to good, will.
+
+The string is there from 107
+  The Wolf therefore, thinking that he had a capital opportunity, accused the Fox to the Lion of not paying any respect to him who had the rule over them all and of not coming to visit him.
+
+The string is there from 362
+  At that very moment the Fox came in and heard these last words of the Wolf.
+
+
+____________________________
+TITLE:  The Dog's House 
+
+____________________________
+TITLE:  The Wolf and the Lion 
+The string is there from 43
+ROAMING BY the mountainside at sundown, a Wolf saw his own shadow become greatly extended and magnified, and he said to himself, "Why should I, being of such an immense size and extending nearly an acre in length, be afraid of the Lion? Ought I not to be acknowledged as King of all the collected beasts?'  While he was indulging in these proud thoughts, a Lion fell upon him and killed him.
+
+
+____________________________
+TITLE:  The Birds, the Beasts, and the Bat 
+
+____________________________
+TITLE:  The Spendthrift and the Swallow 
+
+____________________________
+TITLE:  The Fox and the Lion 
+
+____________________________
+TITLE:  The Owl and the Birds 
+
+____________________________
+TITLE:  The Trumpeter Taken Prisoner 
+
+____________________________
+TITLE:  The Ass in the Lion's Skin 
+
+____________________________
+TITLE:  The Sparrow and the Hare 
+
+____________________________
+TITLE:  The Flea and the Ox 
+
+____________________________
+TITLE:  The Goods and the Ills 
+
+____________________________
+TITLE:  The Dove and the Crow 
+
+____________________________
+TITLE:  Mercury and the Workmen 
+
+____________________________
+TITLE:  The Eagle and the Jackdaw 
+
+____________________________
+TITLE:  The Fox and the Crane 
+
+____________________________
+TITLE:  Jupiter, Neptune, Minerva, and Momus 
+
+____________________________
+TITLE:  The Eagle and the Fox 
+
+____________________________
+TITLE:  The Man and the Satyr 
+
+____________________________
+TITLE:  The Ass and His Purchaser 
+
+____________________________
+TITLE:  The Two Bags 
+
+____________________________
+TITLE:  The Stag at the Pool 
+
+____________________________
+TITLE:  The Jackdaw and the Fox 
+
+____________________________
+TITLE:  The Lark Burying Her Father 
+
+____________________________
+TITLE:  The Gnat and the Bull 
+
+____________________________
+TITLE:  The Bitch and Her Whelps 
+
+____________________________
+TITLE:  The Dogs and the Hides 
+
+____________________________
+TITLE:  The Shepherd and the Sheep 
+
+____________________________
+TITLE:  The Grasshopper and the Owl 
+
+____________________________
+TITLE:  The Monkey and the Camel 
+
+____________________________
+TITLE:  The Peasant and the Apple-Tree 
+
+____________________________
+TITLE:  The Two Soldiers and the Robber 
+
+____________________________
+TITLE:  The Trees Under the Protection of the Gods 
+
+____________________________
+TITLE:  The Mother and the Wolf 
+The string is there from 533
+  When he reached his den, Mistress Wolf inquired of him why he returned wearied and supperless, so contrary to his wont.
+
+The string is there from 247
+"  The Wolf sat all day waiting at the door.
+
+The string is there from 221
+  As he passed the door of a cottage built in the forest, he heard a Mother say to her child, "Be quiet, or I will throw you out of the window, and the Wolf shall eat you.
+
+The string is there from 388
+  In the evening he heard the same woman fondling her child and saying:  "You are quiet now, and if the Wolf should come, we will kill him.
+
+The string is there from 12
+A FAMISHED WOLF was prowling about in the morning in search of food.
+
+The string is there from 430
+"  The Wolf, hearing these words, went home, gasping with cold and hunger.
+
+
+____________________________
+TITLE:  The Ass and the Horse 
+
+____________________________
+TITLE:  Truth and the Traveler 
+
+____________________________
+TITLE:  The Manslayer 
+
+____________________________
+TITLE:  The Lion and the Fox 
+
+____________________________
+TITLE:  The Lion and the Eagle 
+
+____________________________
+TITLE:  The Hen and the Swallow 
+
+____________________________
+TITLE:  The Buffoon and the Countryman 
+
+____________________________
+TITLE:  The Crow and the Serpent 
+
+____________________________
+TITLE:  The Hunter and the Horseman 
+
+____________________________
+TITLE:  The King's Son and the Painted Lion 
+
+____________________________
+TITLE:  The Cat and Venus 
+
+____________________________
+TITLE:  The She-Goats and Their Beards 
+
+____________________________
+TITLE:  The Camel and the Arab 
+
+____________________________
+TITLE:  The Miller, His Son, and Their Ass 
+
+____________________________
+TITLE:  The Crow and the Sheep 
+
+____________________________
+TITLE:  The Fox and the Bramble 
+
+____________________________
+TITLE:  The Wolf and the Lion 
+The string is there from 180
+  Standing at a safe distance, the Wolf exclaimed, "You have unrighteously taken that which was mine from me!"  To which the Lion jeeringly replied, "It was righteously yours, eh? The gift of a friend?'  
+
+The string is there from 3
+A WOLF, having stolen a lamb from a fold, was carrying him off to his lair.
+
+
+____________________________
+TITLE:  The Dog and the Oyster 
+
+____________________________
+TITLE:  The Ant and the Dove 
+
+____________________________
+TITLE:  The Partridge and the Fowler 
+
+____________________________
+TITLE:  The Flea and the Man 
+
+____________________________
+TITLE:  The Thieves and the Cock 
+
+____________________________
+TITLE:  The Dog and the Cook 
+
+____________________________
+TITLE:  The Travelers and the Plane-Tree 
+
+____________________________
+TITLE:  The Hares and the Frogs 
+
+____________________________
+TITLE:  The Lion, Jupiter, and the Elephant 
+
+____________________________
+TITLE:  The Lamb and the Wolf 
+The string is there from 72
+  The Wolf called out to him and said, "The Priest will slay you in sacrifice, if he should catch you.
+
+The string is there from 3
+A WOLF pursued a Lamb, which fled for refuge to a certain Temple.
+
+
+____________________________
+TITLE:  The Rich Man and the Tanner 
+
+____________________________
+TITLE:  The Shipwrecked Man and the Sea 
+
+____________________________
+TITLE:  The Mules and the Robbers 
+
+____________________________
+TITLE:  The Viper and the File 
+
+____________________________
+TITLE:  The Lion and the Shepherd 
+
+____________________________
+TITLE:  The Camel and Jupiter 
+
+____________________________
+TITLE:  The Panther and the Shepherds 
+
+____________________________
+TITLE:  The Ass and the Charger 
+
+____________________________
+TITLE:  The Eagle and His Captor 
+
+____________________________
+TITLE:  The Bald Man and the Fly 
+
+____________________________
+TITLE:  The Olive-Tree and the Fig-Tree 
+
+____________________________
+TITLE:  The Eagle and the Kite 
+
+____________________________
+TITLE:  The Ass and His Driver 
+
+____________________________
+TITLE:  The Thrush and the Fowler 
+
+____________________________
+TITLE:  The Rose and the Amaranth 
+
+____________________________
+

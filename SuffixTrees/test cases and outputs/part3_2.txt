@@ -1,0 +1,2511 @@
+#Query string "wolf grass lamb well"
+#min_Count= how many of the words of the query string occured in the tale
+#sorted = 1 if the words that came up were in relative order of the query string
+#Len/times = Length of string(less) / total number of times any of the words of the query string occured (more) - This ratio should be less for a good string. 
+
+
+ENTER THE STRING: wolf grass lamb well
+DO YOU WANT THE SOLUTION TO PART 1,2 or 3? Enter just the number:
+3
+
+
+Refer to comments in main.c line 94 for scoring criteria
+Higher the score the more relavance the document has.
+TITLE:  The Wolf and the Lamb 
+Len/ times 60
+min_count 4
+SORTED 0
+SCORE 70 / 100
+
+____________________________
+TITLE:  The Bat and the Weasels 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Grasshopper 
+Len/ times 314
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Lion and the Mouse 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Charcoal-Burner and the Fuller 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Father and His Sons 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boy Hunting Locusts 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Cock and the Jewel 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Kingdom of the Lion 
+Len/ times 320
+min_count 2
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Wolf and the Crane 
+Len/ times 168
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Fisherman Piping 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Hercules and the Wagoner 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ants and the Grasshopper 
+Len/ times 460
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Traveler and His Dog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dog and the Shadow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mole and His Mother 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Herdsman and the Lost Bull 
+Len/ times 371
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Hare and the Tortoise 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Pomegranate, Apple-Tree, and Bramble 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Farmer and the Stork 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Farmer and the Snake 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fawn and His Mother 
+Len/ times 459
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Bear and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Swallow and the Crow 
+Len/ times 244
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Mountain in Labor 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass, the Fox, and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Tortoise and the Eagle  
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Flies and the Honey-Pot 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Farmer and the Cranes 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dog in the Manger 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Goat 
+Len/ times 407
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Bear and the Two Travelers 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Oxen and the Axle-Trees 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Thirsty Pigeon 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Raven and the Swan 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Goat and the Goatherd 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Miser 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Sick Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Horse and Groom 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Lapdog 
+Len/ times 1362
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Lioness 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boasting Traveler 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Cat and the Cock 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Piglet, the Sheep, and the Goat 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boy and the Filberts 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion in Love 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Laborer and the Snake 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf in Sheep's Clothing 
+Len/ times 256
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Ass and the Mule 
+Len/ times 468
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Frogs Asking for a King 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boys and the Frogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Sick Stag 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Salt Merchant and His Ass 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Oxen and the Butchers 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion, the Mouse, and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Vain Jackdaw 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Goatherd and the Wild Goats 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mischievous Dog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox Who Had Lost His Tail 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boy and the Nettles 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man and His Two Sweethearts 
+Len/ times 616
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Astronomer 
+Len/ times 227
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Wolves and the Sheep 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Old Woman and the Physician 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fighting Cocks and the Eagle 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Charger and the Miller 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Monkey 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Horse and His Rider 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Belly and the Members 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Vine and the Goat 
+Len/ times 474
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  Jupiter and the Monkey 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Widow and Her Little Maidens 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shepherd's Boy and the Wolf 
+Len/ times 122
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Cat and the Birds 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Kid and the Wolf 
+Len/ times 164
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Ox and the Frog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shepherd and the Wolf 
+Len/ times 104
+min_count 2
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Father and His Two Daughters 
+Len/ times 777
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Farmer and His Sons 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Crab and Its Mother 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Heifer and the Ox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Swallow, the Serpent, and the Court of Justice 
+Len/ times 449
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Thief and His Mother 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Old Man and Death 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fir-Tree and the Bramble 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mouse, the Frog, and the Hawk 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man Bitten by a Dog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Pots 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Sheep 
+Len/ times 469
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Aethiop 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fisherman and His Nets 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Huntsman and the Fisherman 
+Len/ times 324
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Old Woman and the Wine-Jar 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Crow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Dogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Stag in the Ox-Stall 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hawk, the Kite, and the Pigeons 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Widow and the Sheep 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wild Ass and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle and the Arrow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Sick Kite 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Dolphin 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Boar 
+Len/ times 572
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The One-Eyed Doe 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shepherd and the Sea 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass, the Cock, and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mice and the Weasels 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mice in Council 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Housedog 
+Len/ times 87
+min_count 2
+SORTED 1
+SCORE 70 / 100
+
+____________________________
+TITLE:  The Rivers and the Sea 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Playful Ass 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Three Tradesmen 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Master and His Dogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Shepherds 
+Len/ times 188
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Dolphins, the Whales, and the Sprat 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass Carrying the Image 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Travelers and the Axe 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Old Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Old Hound 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bee and Jupiter 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Milk-Woman and Her Pail 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Seaside Travelers 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Brazier and His Dog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and His Shadow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and His Masters 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Oak and the Reeds 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fisherman and the Little Fish 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hunter and the Woodman 
+Len/ times 470
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Wild Boar and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion in a Farmyard 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Mercury and the Sculptor 
+Len/ times 597
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Swan and the Goose 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Swollen Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Woodcutter 
+Len/ times 964
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Birdcatcher, the Partridge, and the Cock 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Monkey and the Fishermen 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Flea and the Wrestler 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Frogs 
+Len/ times 275
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Cat and the Mice 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion, the Bear, and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Doe and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Farmer and the Fox 
+Len/ times 410
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Seagull and the Kite 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Philosopher, the Ants, and Mercury 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mouse and the Bull 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Hare 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Peasant and the Eagle 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Image of Mercury and the Carpenter 
+Len/ times 608
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Bull and the Goat 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dancing Monkeys 
+Len/ times 1016
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Monkeys and Their Mother 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Oaks and Jupiter 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hare and the Hound 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Traveler and Fortune 
+Len/ times 286
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Bald Knight 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shepherd and the Dog 
+Len/ times 73
+min_count 1
+SORTED 1
+SCORE 70 / 100
+
+____________________________
+TITLE:  The Lamp 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion, the Fox, and the Ass 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bull, the Lioness, and the Wild-Boar Hunter 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Oak and the Woodcutters 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hen and the Golden Eggs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Frogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Men often bear little grievances with less courage than they do large misfortunes.  
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Crow and the Raven 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Trees and the Axe 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Crab and the Fox 
+Len/ times 386
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Woman and Her Hen 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Old Shepherd 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Kites and the Swans 
+Len/ times 321
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Wolves and the Sheepdogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hares and the Foxes 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bowman and Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Camel 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wasp and the Snake 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dog and the Hare 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bull and the Calf 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Stag, the Wolf, and the Sheep 
+Len/ times 199
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Peacock and the Crane 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Hedgehog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle, the Cat, and the Wild Sow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Thief and the Innkeeper 
+Len/ times 396
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Mule 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hart and the Vine 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Serpent and the Eagle 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Crow and the Pitcher 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Frogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Fox 
+Len/ times 198
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Walnut-Tree 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Gnat and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Monkey and the Dolphin 
+Len/ times 992
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Jackdaw and the Doves 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Horse and the Stag 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Kid and the Wolf 
+Len/ times 136
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Prophet 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Monkey 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Thief and the Housedog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man, the Horse, the Ox, and the Dog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Apes and the Two Travelers 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Shepherd 
+Len/ times 196
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Hares and the Lions 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lark and Her Young Ones 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Weasel and the Mice 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Boy Bathing 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Wolf 
+Len/ times 139
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Seller of Images 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Grapes 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man and His Wife 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Peacock and Juno 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hawk and the Nightingale 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dog, the Cock, and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Goat 
+Len/ times 412
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Lion and the Bull 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE: 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Goat and the Ass 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Town Mouse and the Country Mouse 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf, the Fox, and the Ape 
+Len/ times 187
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Fly and the Draught-Mule 
+Len/ times 437
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Fishermen 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Three Bulls 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fowler and the Viper 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Horse and the Ass 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Mask 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Geese and the Cranes 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Blind Man and the Whelp 
+Len/ times 145
+min_count 2
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Dogs and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Cobbler Turned Doctor 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Horse 
+Len/ times 461
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Brother and the Sister 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wasps, the Partridges, and the Farmer 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Crow and Mercury 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The North Wind and the Sun 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Men Who Were Enemies 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Gamecocks and the Partridge 
+Len/ times 673
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Quack Frog 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion, the Wolf, and the Fox 
+Len/ times 245
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Dog's House 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Lion 
+Len/ times 513
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Birds, the Beasts, and the Bat 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Spendthrift and the Swallow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Owl and the Birds 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Trumpeter Taken Prisoner 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass in the Lion's Skin 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Sparrow and the Hare 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Flea and the Ox 
+Len/ times 533
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Goods and the Ills 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dove and the Crow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Mercury and the Workmen 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle and the Jackdaw 
+Len/ times 411
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Fox and the Crane 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Jupiter, Neptune, Minerva, and Momus 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Man and the Satyr 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and His Purchaser 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Two Bags 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Stag at the Pool 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Jackdaw and the Fox 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lark Burying Her Father 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Gnat and the Bull 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bitch and Her Whelps 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dogs and the Hides 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shepherd and the Sheep 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Grasshopper and the Owl 
+Len/ times 268
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Monkey and the Camel 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Peasant and the Apple-Tree 
+Len/ times 349
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Two Soldiers and the Robber 
+Len/ times 821
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Trees Under the Protection of the Gods 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mother and the Wolf 
+Len/ times 116
+min_count 1
+SORTED 1
+SCORE 60 / 100
+
+____________________________
+TITLE:  The Ass and the Horse 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  Truth and the Traveler 
+Len/ times 354
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Manslayer 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Fox 
+Len/ times 524
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Lion and the Eagle 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hen and the Swallow 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Buffoon and the Countryman 
+Len/ times 2196
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Crow and the Serpent 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hunter and the Horseman 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The King's Son and the Painted Lion 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Cat and Venus 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The She-Goats and Their Beards 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Camel and the Arab 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Miller, His Son, and Their Ass 
+Len/ times 2086
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Crow and the Sheep 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Fox and the Bramble 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Wolf and the Lion 
+Len/ times 87
+min_count 2
+SORTED 1
+SCORE 70 / 100
+
+____________________________
+TITLE:  The Dog and the Oyster 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ant and the Dove 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Partridge and the Fowler 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Flea and the Man 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Thieves and the Cock 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Dog and the Cook 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Travelers and the Plane-Tree 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Hares and the Frogs 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion, Jupiter, and the Elephant 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lamb and the Wolf 
+Len/ times 70
+min_count 2
+SORTED 1
+SCORE 70 / 100
+
+____________________________
+TITLE:  The Rich Man and the Tanner 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Shipwrecked Man and the Sea 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Mules and the Robbers 
+Len/ times 770
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Viper and the File 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Lion and the Shepherd 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Camel and Jupiter 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Panther and the Shepherds 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Ass and the Charger 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle and His Captor 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Bald Man and the Fly 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Olive-Tree and the Fig-Tree 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Eagle and the Kite 
+Len/ times 993
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Ass and His Driver 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE:  The Thrush and the Fowler 
+Len/ times 365
+min_count 1
+SORTED 1
+SCORE 50 / 100
+
+____________________________
+TITLE:  The Rose and the Amaranth 
+Len/ times NOT APPLICABLE (no matches)
+min_count 0
+SORTED 0
+SCORE 10 / 100
+
+____________________________
+TITLE :  The Wolf and the Lamb , Rank: 4
+TITLE :  The Wolf and the Housedog , Rank: 4
+TITLE :  The Shepherd and the Dog , Rank: 4
+TITLE :  The Wolf and the Lion , Rank: 4
+TITLE :  The Lamb and the Wolf , Rank: 4
+TITLE :  The Wolf and the Crane , Rank: 5
+TITLE :  The Shepherd's Boy and the Wolf , Rank: 5
+TITLE :  The Kid and the Wolf , Rank: 5
+TITLE :  The Shepherd and the Wolf , Rank: 5
+TITLE :  The Wolf and the Shepherds , Rank: 5
+TITLE :  The Stag, the Wolf, and the Sheep , Rank: 5
+TITLE :  The Wolf and the Fox , Rank: 5
+TITLE :  The Kid and the Wolf , Rank: 5
+TITLE :  The Wolf and the Shepherd , Rank: 5
+TITLE :  The Ass and the Wolf , Rank: 5
+TITLE :  The Wolf, the Fox, and the Ape , Rank: 5
+TITLE :  The Blind Man and the Whelp , Rank: 5
+TITLE :  The Mother and the Wolf , Rank: 5
+TITLE :  The Ass and the Grasshopper , Rank: 6
+TITLE :  The Kingdom of the Lion , Rank: 6
+TITLE :  The Ants and the Grasshopper , Rank: 6
+TITLE :  The Herdsman and the Lost Bull , Rank: 6
+TITLE :  The Fawn and His Mother , Rank: 6
+TITLE :  The Swallow and the Crow , Rank: 6
+TITLE :  The Fox and the Goat , Rank: 6
+TITLE :  The Ass and the Lapdog , Rank: 6
+TITLE :  The Wolf in Sheep's Clothing , Rank: 6
+TITLE :  The Ass and the Mule , Rank: 6
+TITLE :  The Man and His Two Sweethearts , Rank: 6
+TITLE :  The Astronomer , Rank: 6
+TITLE :  The Vine and the Goat , Rank: 6
+TITLE :  The Father and His Two Daughters , Rank: 6
+TITLE :  The Swallow, the Serpent, and the Court of Justice , Rank: 6
+TITLE :  The Wolf and the Sheep , Rank: 6
+TITLE :  The Huntsman and the Fisherman , Rank: 6
+TITLE :  The Lion and the Boar , Rank: 6
+TITLE :  The Hunter and the Woodman , Rank: 6
+TITLE :  Mercury and the Sculptor , Rank: 6
+TITLE :  The Fox and the Woodcutter , Rank: 6
+TITLE :  The Two Frogs , Rank: 6
+TITLE :  The Farmer and the Fox , Rank: 6
+TITLE :  The Image of Mercury and the Carpenter , Rank: 6
+TITLE :  The Dancing Monkeys , Rank: 6
+TITLE :  The Traveler and Fortune , Rank: 6
+TITLE :  The Crab and the Fox , Rank: 6
+TITLE :  The Kites and the Swans , Rank: 6
+TITLE :  The Thief and the Innkeeper , Rank: 6
+TITLE :  The Monkey and the Dolphin , Rank: 6
+TITLE :  The Wolf and the Goat , Rank: 6
+TITLE :  The Fly and the Draught-Mule , Rank: 6
+TITLE :  The Wolf and the Horse , Rank: 6
+TITLE :  The Gamecocks and the Partridge , Rank: 6
+TITLE :  The Lion, the Wolf, and the Fox , Rank: 6
+TITLE :  The Wolf and the Lion , Rank: 6
+TITLE :  The Flea and the Ox , Rank: 6
+TITLE :  The Eagle and the Jackdaw , Rank: 6
+TITLE :  The Grasshopper and the Owl , Rank: 6
+TITLE :  The Peasant and the Apple-Tree , Rank: 6
+TITLE :  The Two Soldiers and the Robber , Rank: 6
+TITLE :  Truth and the Traveler , Rank: 6
+TITLE :  The Lion and the Fox , Rank: 6
+TITLE :  The Buffoon and the Countryman , Rank: 6
+TITLE :  The Miller, His Son, and Their Ass , Rank: 6
+TITLE :  The Mules and the Robbers , Rank: 6
+TITLE :  The Eagle and the Kite , Rank: 6
+TITLE :  The Thrush and the Fowler , Rank: 6
+TITLE :  The Bat and the Weasels , Rank: 10
+TITLE :  The Lion and the Mouse , Rank: 10
+TITLE :  The Charcoal-Burner and the Fuller , Rank: 10
+TITLE :  The Father and His Sons , Rank: 10
+TITLE :  The Boy Hunting Locusts , Rank: 10
+TITLE :  The Cock and the Jewel , Rank: 10
+TITLE :  The Fisherman Piping , Rank: 10
+TITLE :  Hercules and the Wagoner , Rank: 10
+TITLE :  The Traveler and His Dog , Rank: 10
+TITLE :  The Dog and the Shadow , Rank: 10
+TITLE :  The Mole and His Mother , Rank: 10
+TITLE :  The Hare and the Tortoise , Rank: 10
+TITLE :  The Pomegranate, Apple-Tree, and Bramble , Rank: 10
+TITLE :  The Farmer and the Stork , Rank: 10
+TITLE :  The Farmer and the Snake , Rank: 10
+TITLE :  The Bear and the Fox , Rank: 10
+TITLE :  The Mountain in Labor , Rank: 10
+TITLE :  The Ass, the Fox, and the Lion , Rank: 10
+TITLE :  The Tortoise and the Eagle  , Rank: 10
+TITLE :  The Flies and the Honey-Pot , Rank: 10
+TITLE :  The Man and the Lion , Rank: 10
+TITLE :  The Farmer and the Cranes , Rank: 10
+TITLE :  The Dog in the Manger , Rank: 10
+TITLE :  The Bear and the Two Travelers , Rank: 10
+TITLE :  The Oxen and the Axle-Trees , Rank: 10
+TITLE :  The Thirsty Pigeon , Rank: 10
+TITLE :  The Raven and the Swan , Rank: 10
+TITLE :  The Goat and the Goatherd , Rank: 10
+TITLE :  The Miser , Rank: 10
+TITLE :  The Sick Lion , Rank: 10
+TITLE :  The Horse and Groom , Rank: 10
+TITLE :  The Lioness , Rank: 10
+TITLE :  The Boasting Traveler , Rank: 10
+TITLE :  The Cat and the Cock , Rank: 10
+TITLE :  The Piglet, the Sheep, and the Goat , Rank: 10
+TITLE :  The Boy and the Filberts , Rank: 10
+TITLE :  The Lion in Love , Rank: 10
+TITLE :  The Laborer and the Snake , Rank: 10
+TITLE :  The Frogs Asking for a King , Rank: 10
+TITLE :  The Boys and the Frogs , Rank: 10
+TITLE :  The Sick Stag , Rank: 10
+TITLE :  The Salt Merchant and His Ass , Rank: 10
+TITLE :  The Oxen and the Butchers , Rank: 10
+TITLE :  The Lion, the Mouse, and the Fox , Rank: 10
+TITLE :  The Vain Jackdaw , Rank: 10
+TITLE :  The Goatherd and the Wild Goats , Rank: 10
+TITLE :  The Mischievous Dog , Rank: 10
+TITLE :  The Fox Who Had Lost His Tail , Rank: 10
+TITLE :  The Boy and the Nettles , Rank: 10
+TITLE :  The Wolves and the Sheep , Rank: 10
+TITLE :  The Old Woman and the Physician , Rank: 10
+TITLE :  The Fighting Cocks and the Eagle , Rank: 10
+TITLE :  The Charger and the Miller , Rank: 10
+TITLE :  The Fox and the Monkey , Rank: 10
+TITLE :  The Horse and His Rider , Rank: 10
+TITLE :  The Belly and the Members , Rank: 10
+TITLE :  Jupiter and the Monkey , Rank: 10
+TITLE :  The Widow and Her Little Maidens , Rank: 10
+TITLE :  The Cat and the Birds , Rank: 10
+TITLE :  The Ox and the Frog , Rank: 10
+TITLE :  The Farmer and His Sons , Rank: 10
+TITLE :  The Crab and Its Mother , Rank: 10
+TITLE :  The Heifer and the Ox , Rank: 10
+TITLE :  The Thief and His Mother , Rank: 10
+TITLE :  The Old Man and Death , Rank: 10
+TITLE :  The Fir-Tree and the Bramble , Rank: 10
+TITLE :  The Mouse, the Frog, and the Hawk , Rank: 10
+TITLE :  The Man Bitten by a Dog , Rank: 10
+TITLE :  The Two Pots , Rank: 10
+TITLE :  The Aethiop , Rank: 10
+TITLE :  The Fisherman and His Nets , Rank: 10
+TITLE :  The Old Woman and the Wine-Jar , Rank: 10
+TITLE :  The Fox and the Crow , Rank: 10
+TITLE :  The Two Dogs , Rank: 10
+TITLE :  The Stag in the Ox-Stall , Rank: 10
+TITLE :  The Hawk, the Kite, and the Pigeons , Rank: 10
+TITLE :  The Widow and the Sheep , Rank: 10
+TITLE :  The Wild Ass and the Lion , Rank: 10
+TITLE :  The Eagle and the Arrow , Rank: 10
+TITLE :  The Sick Kite , Rank: 10
+TITLE :  The Lion and the Dolphin , Rank: 10
+TITLE :  The One-Eyed Doe , Rank: 10
+TITLE :  The Shepherd and the Sea , Rank: 10
+TITLE :  The Ass, the Cock, and the Lion , Rank: 10
+TITLE :  The Mice and the Weasels , Rank: 10
+TITLE :  The Mice in Council , Rank: 10
+TITLE :  The Rivers and the Sea , Rank: 10
+TITLE :  The Playful Ass , Rank: 10
+TITLE :  The Three Tradesmen , Rank: 10
+TITLE :  The Master and His Dogs , Rank: 10
+TITLE :  The Dolphins, the Whales, and the Sprat , Rank: 10
+TITLE :  The Ass Carrying the Image , Rank: 10
+TITLE :  The Two Travelers and the Axe , Rank: 10
+TITLE :  The Old Lion , Rank: 10
+TITLE :  The Old Hound , Rank: 10
+TITLE :  The Bee and Jupiter , Rank: 10
+TITLE :  The Milk-Woman and Her Pail , Rank: 10
+TITLE :  The Seaside Travelers , Rank: 10
+TITLE :  The Brazier and His Dog , Rank: 10
+TITLE :  The Ass and His Shadow , Rank: 10
+TITLE :  The Ass and His Masters , Rank: 10
+TITLE :  The Oak and the Reeds , Rank: 10
+TITLE :  The Fisherman and the Little Fish , Rank: 10
+TITLE :  The Wild Boar and the Fox , Rank: 10
+TITLE :  The Lion in a Farmyard , Rank: 10
+TITLE :  The Swan and the Goose , Rank: 10
+TITLE :  The Swollen Fox , Rank: 10
+TITLE :  The Birdcatcher, the Partridge, and the Cock , Rank: 10
+TITLE :  The Monkey and the Fishermen , Rank: 10
+TITLE :  The Flea and the Wrestler , Rank: 10
+TITLE :  The Cat and the Mice , Rank: 10
+TITLE :  The Lion, the Bear, and the Fox , Rank: 10
+TITLE :  The Doe and the Lion , Rank: 10
+TITLE :  The Seagull and the Kite , Rank: 10
+TITLE :  The Philosopher, the Ants, and Mercury , Rank: 10
+TITLE :  The Mouse and the Bull , Rank: 10
+TITLE :  The Lion and the Hare , Rank: 10
+TITLE :  The Peasant and the Eagle , Rank: 10
+TITLE :  The Bull and the Goat , Rank: 10
+TITLE :  The Monkeys and Their Mother , Rank: 10
+TITLE :  The Oaks and Jupiter , Rank: 10
+TITLE :  The Hare and the Hound , Rank: 10
+TITLE :  The Bald Knight , Rank: 10
+TITLE :  The Lamp , Rank: 10
+TITLE :  The Lion, the Fox, and the Ass , Rank: 10
+TITLE :  The Bull, the Lioness, and the Wild-Boar Hunter , Rank: 10
+TITLE :  The Oak and the Woodcutters , Rank: 10
+TITLE :  The Hen and the Golden Eggs , Rank: 10
+TITLE :  The Ass and the Frogs , Rank: 10
+TITLE :  Men often bear little grievances with less courage than they do large misfortunes.  , Rank: 10
+TITLE :  The Crow and the Raven , Rank: 10
+TITLE :  The Trees and the Axe , Rank: 10
+TITLE :  The Woman and Her Hen , Rank: 10
+TITLE :  The Ass and the Old Shepherd , Rank: 10
+TITLE :  The Wolves and the Sheepdogs , Rank: 10
+TITLE :  The Hares and the Foxes , Rank: 10
+TITLE :  The Bowman and Lion , Rank: 10
+TITLE :  The Camel , Rank: 10
+TITLE :  The Wasp and the Snake , Rank: 10
+TITLE :  The Dog and the Hare , Rank: 10
+TITLE :  The Bull and the Calf , Rank: 10
+TITLE :  The Peacock and the Crane , Rank: 10
+TITLE :  The Fox and the Hedgehog , Rank: 10
+TITLE :  The Eagle, the Cat, and the Wild Sow , Rank: 10
+TITLE :  The Mule , Rank: 10
+TITLE :  The Hart and the Vine , Rank: 10
+TITLE :  The Serpent and the Eagle , Rank: 10
+TITLE :  The Crow and the Pitcher , Rank: 10
+TITLE :  The Two Frogs , Rank: 10
+TITLE :  The Walnut-Tree , Rank: 10
+TITLE :  The Gnat and the Lion , Rank: 10
+TITLE :  The Jackdaw and the Doves , Rank: 10
+TITLE :  The Horse and the Stag , Rank: 10
+TITLE :  The Prophet , Rank: 10
+TITLE :  The Fox and the Monkey , Rank: 10
+TITLE :  The Thief and the Housedog , Rank: 10
+TITLE :  The Man, the Horse, the Ox, and the Dog , Rank: 10
+TITLE :  The Apes and the Two Travelers , Rank: 10
+TITLE :  The Hares and the Lions , Rank: 10
+TITLE :  The Lark and Her Young Ones , Rank: 10
+TITLE :  The Fox and the Lion , Rank: 10
+TITLE :  The Weasel and the Mice , Rank: 10
+TITLE :  The Boy Bathing , Rank: 10
+TITLE :  The Seller of Images , Rank: 10
+TITLE :  The Fox and the Grapes , Rank: 10
+TITLE :  The Man and His Wife , Rank: 10
+TITLE :  The Peacock and Juno , Rank: 10
+TITLE :  The Hawk and the Nightingale , Rank: 10
+TITLE :  The Dog, the Cock, and the Fox , Rank: 10
+TITLE :  The Lion and the Bull , Rank: 10
+TITLE : , Rank: 10
+TITLE :  The Goat and the Ass , Rank: 10
+TITLE :  The Town Mouse and the Country Mouse , Rank: 10
+TITLE :  The Fishermen , Rank: 10
+TITLE :  The Lion and the Three Bulls , Rank: 10
+TITLE :  The Fowler and the Viper , Rank: 10
+TITLE :  The Horse and the Ass , Rank: 10
+TITLE :  The Fox and the Mask , Rank: 10
+TITLE :  The Geese and the Cranes , Rank: 10
+TITLE :  The Dogs and the Fox , Rank: 10
+TITLE :  The Cobbler Turned Doctor , Rank: 10
+TITLE :  The Brother and the Sister , Rank: 10
+TITLE :  The Wasps, the Partridges, and the Farmer , Rank: 10
+TITLE :  The Crow and Mercury , Rank: 10
+TITLE :  The North Wind and the Sun , Rank: 10
+TITLE :  The Two Men Who Were Enemies , Rank: 10
+TITLE :  The Quack Frog , Rank: 10
+TITLE :  The Dog's House , Rank: 10
+TITLE :  The Birds, the Beasts, and the Bat , Rank: 10
+TITLE :  The Spendthrift and the Swallow , Rank: 10
+TITLE :  The Fox and the Lion , Rank: 10
+TITLE :  The Owl and the Birds , Rank: 10
+TITLE :  The Trumpeter Taken Prisoner , Rank: 10
+TITLE :  The Ass in the Lion's Skin , Rank: 10
+TITLE :  The Sparrow and the Hare , Rank: 10
+TITLE :  The Goods and the Ills , Rank: 10
+TITLE :  The Dove and the Crow , Rank: 10
+TITLE :  Mercury and the Workmen , Rank: 10
+TITLE :  The Fox and the Crane , Rank: 10
+TITLE :  Jupiter, Neptune, Minerva, and Momus , Rank: 10
+TITLE :  The Eagle and the Fox , Rank: 10
+TITLE :  The Man and the Satyr , Rank: 10
+TITLE :  The Ass and His Purchaser , Rank: 10
+TITLE :  The Two Bags , Rank: 10
+TITLE :  The Stag at the Pool , Rank: 10
+TITLE :  The Jackdaw and the Fox , Rank: 10
+TITLE :  The Lark Burying Her Father , Rank: 10
+TITLE :  The Gnat and the Bull , Rank: 10
+TITLE :  The Bitch and Her Whelps , Rank: 10
+TITLE :  The Dogs and the Hides , Rank: 10
+TITLE :  The Shepherd and the Sheep , Rank: 10
+TITLE :  The Monkey and the Camel , Rank: 10
+TITLE :  The Trees Under the Protection of the Gods , Rank: 10
+TITLE :  The Ass and the Horse , Rank: 10
+TITLE :  The Manslayer , Rank: 10
+TITLE :  The Lion and the Eagle , Rank: 10
+TITLE :  The Hen and the Swallow , Rank: 10
+TITLE :  The Crow and the Serpent , Rank: 10
+TITLE :  The Hunter and the Horseman , Rank: 10
+TITLE :  The King's Son and the Painted Lion , Rank: 10
+TITLE :  The Cat and Venus , Rank: 10
+TITLE :  The She-Goats and Their Beards , Rank: 10
+TITLE :  The Camel and the Arab , Rank: 10
+TITLE :  The Crow and the Sheep , Rank: 10
+TITLE :  The Fox and the Bramble , Rank: 10
+TITLE :  The Dog and the Oyster , Rank: 10
+TITLE :  The Ant and the Dove , Rank: 10
+TITLE :  The Partridge and the Fowler , Rank: 10
+TITLE :  The Flea and the Man , Rank: 10
+TITLE :  The Thieves and the Cock , Rank: 10
+TITLE :  The Dog and the Cook , Rank: 10
+TITLE :  The Travelers and the Plane-Tree , Rank: 10
+TITLE :  The Hares and the Frogs , Rank: 10
+TITLE :  The Lion, Jupiter, and the Elephant , Rank: 10
+TITLE :  The Rich Man and the Tanner , Rank: 10
+TITLE :  The Shipwrecked Man and the Sea , Rank: 10
+TITLE :  The Viper and the File , Rank: 10
+TITLE :  The Lion and the Shepherd , Rank: 10
+TITLE :  The Camel and Jupiter , Rank: 10
+TITLE :  The Panther and the Shepherds , Rank: 10
+TITLE :  The Ass and the Charger , Rank: 10
+TITLE :  The Eagle and His Captor , Rank: 10
+TITLE :  The Bald Man and the Fly , Rank: 10
+TITLE :  The Olive-Tree and the Fig-Tree , Rank: 10
+TITLE :  The Ass and His Driver , Rank: 10
+TITLE :  The Rose and the Amaranth , Rank: 10
+Refer to comments in main.c line 94 for scoring criteria
+

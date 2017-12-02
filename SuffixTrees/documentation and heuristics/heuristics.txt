@@ -1,0 +1,27 @@
+Scoring Criteria
+
+1. Ratio of length of tale/ no. of times needed words appear (the lower this value the better)
+2. Number of words in the query that were there in the tale
+3. Whether the sequence of the words appearing in the tale was same as the query string 
+
+Each of these criteria has 30 points
+Initially, each story is given a max possible score of 100 points.
+
+Criteria 1:
+1. If none of the words in the query string occur in the tale, 30 points are subtracted from the total
+2. If this score is above 200, this means some words matched but very few times or the string is too long. So 20 points are subtracted
+3. If this score is between 100 and 200, some words match, and the string is moderately long, so 10 points are subtracted
+4. Else it is a good string and nothing is subtracted.
+
+Criteria 2:
+1. If all the words in the query string are not present in the tale, we subtract 30 points.
+
+Criteria 3:
+1. If the words did not appear in the tale in the same order that they appeared in the query string, 30 points were subtracted (if sorted = 0)
+
+Ranking:
+1. Based on the score, the rank is given using [11 - (Score/10)]
+2. Documents with thw same score will have the same rank. 
+3. Since the ranks are not relative to eachother, the ranks may not be sequential.
+
+

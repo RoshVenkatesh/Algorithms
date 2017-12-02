@@ -1,0 +1,4 @@
+gcc -c functions.c
+gcc -c main.c
+gcc functions.o main.o
+./a.out

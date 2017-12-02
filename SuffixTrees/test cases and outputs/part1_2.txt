@@ -1,0 +1,1040 @@
+#String "and the" finds all occurances of it including if they are a part of other words eg. "stand there"
+
+ENTER THE STRING: and the
+DO YOU WANT THE SOLUTION TO PART 1,2 or 3? Enter just the number:
+1
+
+
+TITLE:  The Wolf and the Lamb 
+
+____________________________
+TITLE:  The Bat and the Weasels 
+
+____________________________
+TITLE:  The Ass and the Grasshopper 
+
+____________________________
+TITLE:  The Lion and the Mouse 
+
+____________________________
+TITLE:  The Charcoal-Burner and the Fuller 
+
+____________________________
+TITLE:  The Father and His Sons 
+
+____________________________
+TITLE:  The Boy Hunting Locusts 
+
+____________________________
+TITLE:  The Cock and the Jewel 
+
+____________________________
+TITLE:  The Kingdom of the Lion 
+
+____________________________
+TITLE:  The Wolf and the Crane 
+
+____________________________
+TITLE:  The Fisherman Piping 
+
+____________________________
+TITLE:  Hercules and the Wagoner 
+
+____________________________
+TITLE:  The Ants and the Grasshopper 
+
+____________________________
+TITLE:  The Traveler and His Dog 
+The string is there from 130
+  He asked him sharply:  "Why do you stand there gaping? Everything is ready but you, so come with me instantly.
+
+
+____________________________
+TITLE:  The Dog and the Shadow 
+
+____________________________
+TITLE:  The Mole and His Mother 
+
+____________________________
+TITLE:  The Herdsman and the Lost Bull 
+The string is there from 242
+  After a long and fruitless search, he made a vow that, if he could only discover the thief who had stolen the Calf, he would offer a lamb in sacrifice to Hermes, Pan, and the Guardian Deities of the forest.
+
+
+____________________________
+TITLE:  The Hare and the Tortoise 
+The string is there from 244
+"  The Hare, believing her assertion to be simply impossible, assented to the proposal; and they agreed that the Fox should choose the course and fix the goal.
+
+
+____________________________
+TITLE:  The Pomegranate, Apple-Tree, and Bramble 
+
+____________________________
+TITLE:  The Farmer and the Stork 
+
+____________________________
+TITLE:  The Farmer and the Snake 
+
+____________________________
+TITLE:  The Fawn and His Mother 
+
+____________________________
+TITLE:  The Bear and the Fox 
+
+____________________________
+TITLE:  The Swallow and the Crow 
+The string is there from 13
+THE SWALLOW and the Crow had a contention about their plumage.
+
+
+____________________________
+TITLE:  The Mountain in Labor 
+
+____________________________
+TITLE:  The Ass, the Fox, and the Lion 
+The string is there from 9
+THE ASS and the Fox, having entered into partnership together for their mutual protection, went out into the forest to hunt.
+
+
+____________________________
+TITLE:  The Tortoise and the Eagle  
+
+____________________________
+TITLE:  The Flies and the Honey-Pot 
+
+____________________________
+TITLE:  The Man and the Lion 
+
+____________________________
+TITLE:  The Farmer and the Cranes 
+
+____________________________
+TITLE:  The Dog in the Manger 
+
+____________________________
+TITLE:  The Fox and the Goat 
+
+____________________________
+TITLE:  The Bear and the Two Travelers 
+
+____________________________
+TITLE:  The Oxen and the Axle-Trees 
+
+____________________________
+TITLE:  The Thirsty Pigeon 
+
+____________________________
+TITLE:  The Raven and the Swan 
+
+____________________________
+TITLE:  The Goat and the Goatherd 
+
+____________________________
+TITLE:  The Miser 
+
+____________________________
+TITLE:  The Sick Lion 
+
+____________________________
+TITLE:  The Horse and Groom 
+
+____________________________
+TITLE:  The Ass and the Lapdog 
+
+____________________________
+TITLE:  The Lioness 
+
+____________________________
+TITLE:  The Boasting Traveler 
+
+____________________________
+TITLE:  The Cat and the Cock 
+
+____________________________
+TITLE:  The Piglet, the Sheep, and the Goat 
+
+____________________________
+TITLE:  The Boy and the Filberts 
+
+____________________________
+TITLE:  The Lion in Love 
+
+____________________________
+TITLE:  The Laborer and the Snake 
+
+____________________________
+TITLE:  The Wolf in Sheep's Clothing 
+The string is there from 278
+  In the evening he was shut up by the shepherd in the fold; the gate was closed, and the entrance made thoroughly secure.
+
+
+____________________________
+TITLE:  The Ass and the Mule 
+
+____________________________
+TITLE:  The Frogs Asking for a King 
+
+____________________________
+TITLE:  The Boys and the Frogs 
+
+____________________________
+TITLE:  The Sick Stag 
+
+____________________________
+TITLE:  The Salt Merchant and His Ass 
+
+____________________________
+TITLE:  The Oxen and the Butchers 
+
+____________________________
+TITLE:  The Lion, the Mouse, and the Fox 
+
+____________________________
+TITLE:  The Vain Jackdaw 
+
+____________________________
+TITLE:  The Goatherd and the Wild Goats 
+
+____________________________
+TITLE:  The Mischievous Dog 
+
+____________________________
+TITLE:  The Fox Who Had Lost His Tail 
+
+____________________________
+TITLE:  The Boy and the Nettles 
+
+____________________________
+TITLE:  The Man and His Two Sweethearts 
+The string is there from 115
+  One of them was young, and the other well advanced in years.
+
+
+____________________________
+TITLE:  The Astronomer 
+
+____________________________
+TITLE:  The Wolves and the Sheep 
+
+____________________________
+TITLE:  The Old Woman and the Physician 
+
+____________________________
+TITLE:  The Fighting Cocks and the Eagle 
+
+____________________________
+TITLE:  The Charger and the Miller 
+
+____________________________
+TITLE:  The Fox and the Monkey 
+
+____________________________
+TITLE:  The Horse and His Rider 
+
+____________________________
+TITLE:  The Belly and the Members 
+
+____________________________
+TITLE:  The Vine and the Goat 
+
+____________________________
+TITLE:  Jupiter and the Monkey 
+
+____________________________
+TITLE:  The Widow and Her Little Maidens 
+
+____________________________
+TITLE:  The Shepherd's Boy and the Wolf 
+
+____________________________
+TITLE:  The Cat and the Birds 
+
+____________________________
+TITLE:  The Kid and the Wolf 
+
+____________________________
+TITLE:  The Ox and the Frog 
+
+____________________________
+TITLE:  The Shepherd and the Wolf 
+
+____________________________
+TITLE:  The Father and His Two Daughters 
+The string is there from 57
+A MAN had two daughters, the one married to a gardener, and the other to a tile-maker.
+
+The string is there from 584
+"  Not long after, he went to the daughter who had married the tilemaker, and likewise inquired of her how she fared; she replied, "I want for nothing, and have only one wish, that the dry weather may continue, and the sun shine hot and bright, so that the bricks might be dried.
+
+
+____________________________
+TITLE:  The Farmer and His Sons 
+
+____________________________
+TITLE:  The Crab and Its Mother 
+
+____________________________
+TITLE:  The Heifer and the Ox 
+
+____________________________
+TITLE:  The Swallow, the Serpent, and the Court of Justice 
+The string is there from 131
+A SWALLOW, returning from abroad and especially fond of dwelling with men, built herself a nest in the wall of a Court of Justice and there hatched seven young birds.
+
+
+____________________________
+TITLE:  The Thief and His Mother 
+
+____________________________
+TITLE:  The Old Man and Death 
+
+____________________________
+TITLE:  The Fir-Tree and the Bramble 
+
+____________________________
+TITLE:  The Mouse, the Frog, and the Hawk 
+
+____________________________
+TITLE:  The Man Bitten by a Dog 
+
+____________________________
+TITLE:  The Two Pots 
+The string is there from 70
+A RIVER carried down in its stream two Pots, one made of earthenware and the other of brass.
+
+
+____________________________
+TITLE:  The Wolf and the Sheep 
+
+____________________________
+TITLE:  The Aethiop 
+
+____________________________
+TITLE:  The Fisherman and His Nets 
+
+____________________________
+TITLE:  The Huntsman and the Fisherman 
+
+____________________________
+TITLE:  The Old Woman and the Wine-Jar 
+
+____________________________
+TITLE:  The Fox and the Crow 
+
+____________________________
+TITLE:  The Two Dogs 
+
+____________________________
+TITLE:  The Stag in the Ox-Stall 
+
+____________________________
+TITLE:  The Hawk, the Kite, and the Pigeons 
+
+____________________________
+TITLE:  The Widow and the Sheep 
+
+____________________________
+TITLE:  The Wild Ass and the Lion 
+
+____________________________
+TITLE:  The Eagle and the Arrow 
+
+____________________________
+TITLE:  The Sick Kite 
+
+____________________________
+TITLE:  The Lion and the Dolphin 
+The string is there from 244
+A LION roaming by the seashore saw a Dolphin lift up its head out of the waves, and suggested that they contract an alliance, saying that of all the animals they ought to be the best friends, since the one was the king of beasts on the earth, and the other was the sovereign ruler of all the inhabitants of the ocean.
+
+
+____________________________
+TITLE:  The Lion and the Boar 
+
+____________________________
+TITLE:  The One-Eyed Doe 
+
+____________________________
+TITLE:  The Shepherd and the Sea 
+
+____________________________
+TITLE:  The Ass, the Cock, and the Lion 
+The string is there from 249
+  He was about to spring upon the Ass, when the Cock (to the sound of whose voice the Lion, it is said, has a singular aversion) crowed loudly, and the Lion fled away as fast as he could.
+
+
+____________________________
+TITLE:  The Mice and the Weasels 
+The string is there from 635
+  When all this was done, and the army disciplined, and the herald Mouse had duly proclaimed war by challenging the Weasels, the newly chosen generals bound their heads with straws, that they might be more conspicuous to all their troops.
+
+The string is there from 13
+THE WEASELS and the Mice waged a perpetual war with each other, in which much blood was shed.
+
+The string is there from 661
+  When all this was done, and the army disciplined, and the herald Mouse had duly proclaimed war by challenging the Weasels, the newly chosen generals bound their heads with straws, that they might be more conspicuous to all their troops.
+
+The string is there from 260
+  The Mice thought that the cause of their frequent defeats was that they had no leaders set apart from the general army to command them, and that they were exposed to dangers from lack of discipline.
+
+
+____________________________
+TITLE:  The Mice in Council 
+
+____________________________
+TITLE:  The Wolf and the Housedog 
+
+____________________________
+TITLE:  The Rivers and the Sea 
+
+____________________________
+TITLE:  The Playful Ass 
+
+____________________________
+TITLE:  The Three Tradesmen 
+
+____________________________
+TITLE:  The Master and His Dogs 
+The string is there from 89
+A CERTAIN MAN, detained by a storm in his country house, first of all killed his sheep, and then his goats, for the maintenance of his household.
+
+
+____________________________
+TITLE:  The Wolf and the Shepherds 
+
+____________________________
+TITLE:  The Dolphins, the Whales, and the Sprat 
+
+____________________________
+TITLE:  The Ass Carrying the Image 
+
+____________________________
+TITLE:  The Two Travelers and the Axe 
+
+____________________________
+TITLE:  The Old Lion 
+
+____________________________
+TITLE:  The Old Hound 
+
+____________________________
+TITLE:  The Bee and Jupiter 
+
+____________________________
+TITLE:  The Milk-Woman and Her Pail 
+
+____________________________
+TITLE:  The Seaside Travelers 
+
+____________________________
+TITLE:  The Brazier and His Dog 
+
+____________________________
+TITLE:  The Ass and His Shadow 
+
+____________________________
+TITLE:  The Ass and His Masters 
+
+____________________________
+TITLE:  The Oak and the Reeds 
+The string is there from 370
+"  They replied, "You fight and contend with the wind, and consequently you are destroyed; while we on the contrary bend before the least breath of air, and therefore remain unbroken, and escape.
+
+
+____________________________
+TITLE:  The Fisherman and the Little Fish 
+
+____________________________
+TITLE:  The Hunter and the Woodman 
+
+____________________________
+TITLE:  The Wild Boar and the Fox 
+
+____________________________
+TITLE:  The Lion in a Farmyard 
+The string is there from 165
+  When the Lion found that he could not escape, he flew upon the sheep and killed them, and then attacked the oxen.
+
+
+____________________________
+TITLE:  Mercury and the Sculptor 
+
+____________________________
+TITLE:  The Swan and the Goose 
+
+____________________________
+TITLE:  The Swollen Fox 
+
+____________________________
+TITLE:  The Fox and the Woodcutter 
+
+____________________________
+TITLE:  The Birdcatcher, the Partridge, and the Cock 
+
+____________________________
+TITLE:  The Monkey and the Fishermen 
+
+____________________________
+TITLE:  The Flea and the Wrestler 
+
+____________________________
+TITLE:  The Two Frogs 
+
+____________________________
+TITLE:  The Cat and the Mice 
+
+____________________________
+TITLE:  The Lion, the Bear, and the Fox 
+
+____________________________
+TITLE:  The Doe and the Lion 
+
+____________________________
+TITLE:  The Farmer and the Fox 
+
+____________________________
+TITLE:  The Seagull and the Kite 
+
+____________________________
+TITLE:  The Philosopher, the Ants, and Mercury 
+
+____________________________
+TITLE:  The Mouse and the Bull 
+
+____________________________
+TITLE:  The Lion and the Hare 
+
+____________________________
+TITLE:  The Peasant and the Eagle 
+
+____________________________
+TITLE:  The Image of Mercury and the Carpenter 
+
+____________________________
+TITLE:  The Bull and the Goat 
+
+____________________________
+TITLE:  The Dancing Monkeys 
+
+____________________________
+TITLE:  The Monkeys and Their Mother 
+
+____________________________
+TITLE:  The Oaks and Jupiter 
+
+____________________________
+TITLE:  The Hare and the Hound 
+
+____________________________
+TITLE:  The Traveler and Fortune 
+
+____________________________
+TITLE:  The Bald Knight 
+
+____________________________
+TITLE:  The Shepherd and the Dog 
+
+____________________________
+TITLE:  The Lamp 
+The string is there from 137
+  Then a sudden puff of wind arose, and the Lamp was immediately extinguished.
+
+
+____________________________
+TITLE:  The Lion, the Fox, and the Ass 
+The string is there from 19
+THE LION, the Fox and the Ass entered into an agreement to assist each other in the chase.
+
+
+____________________________
+TITLE:  The Bull, the Lioness, and the Wild-Boar Hunter 
+
+____________________________
+TITLE:  The Oak and the Woodcutters 
+
+____________________________
+TITLE:  The Hen and the Golden Eggs 
+
+____________________________
+TITLE:  The Ass and the Frogs 
+
+____________________________
+TITLE:  Men often bear little grievances with less courage than they do large misfortunes.  
+
+____________________________
+TITLE:  The Crow and the Raven 
+
+____________________________
+TITLE:  The Trees and the Axe 
+
+____________________________
+TITLE:  The Crab and the Fox 
+
+____________________________
+TITLE:  The Woman and Her Hen 
+
+____________________________
+TITLE:  The Ass and the Old Shepherd 
+
+____________________________
+TITLE:  The Kites and the Swans 
+
+____________________________
+TITLE:  The Wolves and the Sheepdogs 
+
+____________________________
+TITLE:  The Hares and the Foxes 
+
+____________________________
+TITLE:  The Bowman and Lion 
+
+____________________________
+TITLE:  The Camel 
+
+____________________________
+TITLE:  The Wasp and the Snake 
+
+____________________________
+TITLE:  The Dog and the Hare 
+
+____________________________
+TITLE:  The Bull and the Calf 
+
+____________________________
+TITLE:  The Stag, the Wolf, and the Sheep 
+
+____________________________
+TITLE:  The Peacock and the Crane 
+
+____________________________
+TITLE:  The Fox and the Hedgehog 
+
+____________________________
+TITLE:  The Eagle, the Cat, and the Wild Sow 
+
+____________________________
+TITLE:  The Thief and the Innkeeper 
+
+____________________________
+TITLE:  The Mule 
+
+____________________________
+TITLE:  The Hart and the Vine 
+
+____________________________
+TITLE:  The Serpent and the Eagle 
+
+____________________________
+TITLE:  The Crow and the Pitcher 
+
+____________________________
+TITLE:  The Two Frogs 
+
+____________________________
+TITLE:  The Wolf and the Fox 
+
+____________________________
+TITLE:  The Walnut-Tree 
+
+____________________________
+TITLE:  The Gnat and the Lion 
+
+____________________________
+TITLE:  The Monkey and the Dolphin 
+
+____________________________
+TITLE:  The Jackdaw and the Doves 
+
+____________________________
+TITLE:  The Horse and the Stag 
+
+____________________________
+TITLE:  The Kid and the Wolf 
+
+____________________________
+TITLE:  The Prophet 
+
+____________________________
+TITLE:  The Fox and the Monkey 
+
+____________________________
+TITLE:  The Thief and the Housedog 
+
+____________________________
+TITLE:  The Man, the Horse, the Ox, and the Dog 
+
+____________________________
+TITLE:  The Apes and the Two Travelers 
+The string is there from 41
+TWO MEN, one who always spoke the truth and the other who told nothing but lies, were traveling together and by chance came to the land of Apes.
+
+The string is there from 1244
+  "And pray how do I and these my friends around me seem to you?'  "Thou art," he said, "a most excellent Ape, and all these thy companions after thy example are excellent Apes too.
+
+
+____________________________
+TITLE:  The Wolf and the Shepherd 
+
+____________________________
+TITLE:  The Hares and the Lions 
+
+____________________________
+TITLE:  The Lark and Her Young Ones 
+The string is there from 159
+  The brood had almost grown to their full strength and attained the use of their wings and the full plumage of their feathers, when the owner of the field, looking over his ripe crop, said, "The time has come when I must ask all my neighbors to help me with my harvest.
+
+
+____________________________
+TITLE:  The Fox and the Lion 
+
+____________________________
+TITLE:  The Weasel and the Mice 
+
+____________________________
+TITLE:  The Boy Bathing 
+
+____________________________
+TITLE:  The Ass and the Wolf 
+
+____________________________
+TITLE:  The Seller of Images 
+
+____________________________
+TITLE:  The Fox and the Grapes 
+
+____________________________
+TITLE:  The Man and His Wife 
+
+____________________________
+TITLE:  The Peacock and Juno 
+
+____________________________
+TITLE:  The Hawk and the Nightingale 
+
+____________________________
+TITLE:  The Dog, the Cock, and the Fox 
+
+____________________________
+TITLE:  The Wolf and the Goat 
+
+____________________________
+TITLE:  The Lion and the Bull 
+
+____________________________
+TITLE: 
+
+____________________________
+TITLE:  The Goat and the Ass 
+
+____________________________
+TITLE:  The Town Mouse and the Country Mouse 
+
+____________________________
+TITLE:  The Wolf, the Fox, and the Ape 
+
+____________________________
+TITLE:  The Fly and the Draught-Mule 
+
+____________________________
+TITLE:  The Fishermen 
+
+____________________________
+TITLE:  The Lion and the Three Bulls 
+
+____________________________
+TITLE:  The Fowler and the Viper 
+
+____________________________
+TITLE:  The Horse and the Ass 
+
+____________________________
+TITLE:  The Fox and the Mask 
+
+____________________________
+TITLE:  The Geese and the Cranes 
+The string is there from 11
+THE GEESE and the Cranes were feeding in the same meadow, when a birdcatcher came to ensnare them in his nets.
+
+
+____________________________
+TITLE:  The Blind Man and the Whelp 
+
+____________________________
+TITLE:  The Dogs and the Fox 
+
+____________________________
+TITLE:  The Cobbler Turned Doctor 
+
+____________________________
+TITLE:  The Wolf and the Horse 
+
+____________________________
+TITLE:  The Brother and the Sister 
+
+____________________________
+TITLE:  The Wasps, the Partridges, and the Farmer 
+The string is there from 11
+THE WASPS and the Partridges, overcome with thirst, came to a Farmer and besought him to give them some water to drink.
+
+
+____________________________
+TITLE:  The Crow and Mercury 
+
+____________________________
+TITLE:  The North Wind and the Sun 
+The string is there from 16
+THE NORTH WIND and the Sun disputed as to which was the most powerful, and agreed that he should be declared the victor who could first strip a wayfaring man of his clothes.
+
+
+____________________________
+TITLE:  The Two Men Who Were Enemies 
+The string is there from 155
+  Determined to keep as far apart as possible, the one seated himself in the stem, and the other in the prow of the ship.
+
+
+____________________________
+TITLE:  The Gamecocks and the Partridge 
+
+____________________________
+TITLE:  The Quack Frog 
+
+____________________________
+TITLE:  The Lion, the Wolf, and the Fox 
+
+____________________________
+TITLE:  The Dog's House 
+
+____________________________
+TITLE:  The Wolf and the Lion 
+
+____________________________
+TITLE:  The Birds, the Beasts, and the Bat 
+
+____________________________
+TITLE:  The Spendthrift and the Swallow 
+
+____________________________
+TITLE:  The Fox and the Lion 
+
+____________________________
+TITLE:  The Owl and the Birds 
+
+____________________________
+TITLE:  The Trumpeter Taken Prisoner 
+
+____________________________
+TITLE:  The Ass in the Lion's Skin 
+
+____________________________
+TITLE:  The Sparrow and the Hare 
+
+____________________________
+TITLE:  The Flea and the Ox 
+
+____________________________
+TITLE:  The Goods and the Ills 
+
+____________________________
+TITLE:  The Dove and the Crow 
+
+____________________________
+TITLE:  Mercury and the Workmen 
+
+____________________________
+TITLE:  The Eagle and the Jackdaw 
+
+____________________________
+TITLE:  The Fox and the Crane 
+
+____________________________
+TITLE:  Jupiter, Neptune, Minerva, and Momus 
+
+____________________________
+TITLE:  The Eagle and the Fox 
+
+____________________________
+TITLE:  The Man and the Satyr 
+
+____________________________
+TITLE:  The Ass and His Purchaser 
+
+____________________________
+TITLE:  The Two Bags 
+
+____________________________
+TITLE:  The Stag at the Pool 
+
+____________________________
+TITLE:  The Jackdaw and the Fox 
+
+____________________________
+TITLE:  The Lark Burying Her Father 
+
+____________________________
+TITLE:  The Gnat and the Bull 
+
+____________________________
+TITLE:  The Bitch and Her Whelps 
+
+____________________________
+TITLE:  The Dogs and the Hides 
+
+____________________________
+TITLE:  The Shepherd and the Sheep 
+
+____________________________
+TITLE:  The Grasshopper and the Owl 
+
+____________________________
+TITLE:  The Monkey and the Camel 
+
+____________________________
+TITLE:  The Peasant and the Apple-Tree 
+
+____________________________
+TITLE:  The Two Soldiers and the Robber 
+The string is there from 227
+  The Robber being slain, the timid companion ran up and drew his sword, and then, throwing back his traveling cloak said, "I'll at him, and I'll take care he shall learn whom he has attacked.
+
+
+____________________________
+TITLE:  The Trees Under the Protection of the Gods 
+
+____________________________
+TITLE:  The Mother and the Wolf 
+The string is there from 213
+  As he passed the door of a cottage built in the forest, he heard a Mother say to her child, "Be quiet, or I will throw you out of the window, and the Wolf shall eat you.
+
+
+____________________________
+TITLE:  The Ass and the Horse 
+
+____________________________
+TITLE:  Truth and the Traveler 
+
+____________________________
+TITLE:  The Manslayer 
+
+____________________________
+TITLE:  The Lion and the Fox 
+
+____________________________
+TITLE:  The Lion and the Eagle 
+
+____________________________
+TITLE:  The Hen and the Swallow 
+
+____________________________
+TITLE:  The Buffoon and the Countryman 
+
+____________________________
+TITLE:  The Crow and the Serpent 
+
+____________________________
+TITLE:  The Hunter and the Horseman 
+
+____________________________
+TITLE:  The King's Son and the Painted Lion 
+
+____________________________
+TITLE:  The Cat and Venus 
+
+____________________________
+TITLE:  The She-Goats and Their Beards 
+
+____________________________
+TITLE:  The Camel and the Arab 
+
+____________________________
+TITLE:  The Miller, His Son, and Their Ass 
+
+____________________________
+TITLE:  The Crow and the Sheep 
+
+____________________________
+TITLE:  The Fox and the Bramble 
+
+____________________________
+TITLE:  The Wolf and the Lion 
+
+____________________________
+TITLE:  The Dog and the Oyster 
+
+____________________________
+TITLE:  The Ant and the Dove 
+
+____________________________
+TITLE:  The Partridge and the Fowler 
+
+____________________________
+TITLE:  The Flea and the Man 
+
+____________________________
+TITLE:  The Thieves and the Cock 
+
+____________________________
+TITLE:  The Dog and the Cook 
+
+____________________________
+TITLE:  The Travelers and the Plane-Tree 
+
+____________________________
+TITLE:  The Hares and the Frogs 
+The string is there from 170
+THE HARES, oppressed by their own exceeding timidity and weary of the perpetual alarm to which they were exposed, with one accord determined to put an end to themselves and their troubles by jumping from a lofty precipice into a deep lake below.
+
+
+____________________________
+TITLE:  The Lion, Jupiter, and the Elephant 
+
+____________________________
+TITLE:  The Lamb and the Wolf 
+
+____________________________
+TITLE:  The Rich Man and the Tanner 
+
+____________________________
+TITLE:  The Shipwrecked Man and the Sea 
+
+____________________________
+TITLE:  The Mules and the Robbers 
+
+____________________________
+TITLE:  The Viper and the File 
+
+____________________________
+TITLE:  The Lion and the Shepherd 
+
+____________________________
+TITLE:  The Camel and Jupiter 
+
+____________________________
+TITLE:  The Panther and the Shepherds 
+
+____________________________
+TITLE:  The Ass and the Charger 
+
+____________________________
+TITLE:  The Eagle and His Captor 
+
+____________________________
+TITLE:  The Bald Man and the Fly 
+
+____________________________
+TITLE:  The Olive-Tree and the Fig-Tree 
+
+____________________________
+TITLE:  The Eagle and the Kite 
+
+____________________________
+TITLE:  The Ass and His Driver 
+
+____________________________
+TITLE:  The Thrush and the Fowler 
+
+____________________________
+TITLE:  The Rose and the Amaranth 
+
+____________________________
+
